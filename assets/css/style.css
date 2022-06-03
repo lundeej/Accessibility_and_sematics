@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navagation Properties */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +33,7 @@ header nav {
     font-size: 20px;
 }
 
+/* Navagation Link Properties */
 header nav a {
     list-style-type: none;
     display: inline-block;
@@ -47,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/* Background Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +59,7 @@ p {
     background-position: center;
 }
 
+/* Main section images location */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -66,12 +70,14 @@ p {
     margin-left: 25px;
 }
 
+/* Main section properties */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Side box properties */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -99,6 +105,7 @@ aside {
     max-width: 150px;
 }
 
+/* Main section box properties */
 .section-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,6 +124,7 @@ aside {
     font-size: 36px;
 }
 
+/* Footer properties */
 footer {
     padding: 30px;
     clear: both;
